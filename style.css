@@ -52,11 +52,11 @@ h2 {
 }
 
 #paragrafo {
-    color: blue;
+    color: rgb(0, 0, 255);
 }
 
 #tema1 {
-color: red;
+      color: rgb(255, 0, 0);
 }
 
 #tema2 {
@@ -64,5 +64,5 @@ color: red;
 }
 
 #elenco {
-    background-color: blue;
+    background-color: rgb(0, 0, 255);
 }
